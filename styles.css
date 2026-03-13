@@ -43,11 +43,13 @@ a {
 }
 
 .gepjarmu{
-  text-align: justify;
+  text-align: right;
+  margin-right: 100px;
 }
 
 .eletrajz{
   background-color: gray;
+  width: 1050px;
 }
 
 .eletrajz p{
@@ -56,4 +58,9 @@ a {
 
 p{
   text-align: justify;
+}
+
+#elso{
+  text-align: justify;
+  margin-bottom: 40px;
 }
